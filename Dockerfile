@@ -1,6 +1,6 @@
 FROM ubuntu:kinetic
 
-RUN apt-get update && apt-get install -y docker-compose nodejs npm jq pip
+RUN apt-get update && apt-get install -y docker-compose nodejs npm jq pip curl zstd
 
 RUN pip install yq
 

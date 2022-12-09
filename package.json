@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/dyrector-io/playwright#readme",
   "dependencies": {
-    "@playwright/test": "^1.26.0-alpha-aug-23-2022"
+    "@playwright/test": "^1.28.1"
   }
 }
